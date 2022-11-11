@@ -1,0 +1,6 @@
+[submodule "reliquary-backend"]
+	path = reliquary-backend
+	url = git@github.com:moodyRahman/reliquary-backend.git
+[submodule "reliquary-frontend"]
+	path = reliquary-frontend
+	url = git@github.com:moodyRahman/reliquary-frontend.git
